@@ -1,4 +1,4 @@
-require 'fs';
+require('fs');
 
 var express = require('express');
 
